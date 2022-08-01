@@ -1,0 +1,15 @@
+.card {
+    border: goldenrod 0.5rem dotted;
+    height: 13.75rem;
+    width: 8.75rem;
+    margin: 5vw;
+}
+
+@media screen and (min-width: 768px) {
+
+    .card {
+        height: 22rem;
+        width: 16.5rem;
+        margin: 20px 0; 
+    }
+}
